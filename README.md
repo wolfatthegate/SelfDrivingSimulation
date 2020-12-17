@@ -2,7 +2,7 @@
 
 This is a complete project which should be able to run it after installing all the competitable packages. 
 
-Make sure that MyData/IMG.zip is unzip to MyData/IMG folder. There should be 9966 images after unzipping the folder. 
+Make sure that MyData/IMG.zip and MyData/IMG2.zip are unzipped to MyData/IMG folder. There should be 9966 images after unzipping the folder. 
 
 TrainingSimulation.py file will do all the training. 
 utils.py contains all the methods TrainingSimulation.py use to train the data. 
